@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManaasGupta 
 - :mortar_board: Post-Graduate in Biotechnology and Bioinformatics
-- :office: Currently working as Intern in a startup based out in Bengaluru
+- :office: Currently working as Bioinformatic Intern in a startup based out in Bengaluru
 - 👀 I’m interested in python, HTML,CSS and Javascript
 - 🌱 I’m currently learning python and Javascript
 - :e-mail:  How to reach me : Email- manasgpt3@gmail.com
