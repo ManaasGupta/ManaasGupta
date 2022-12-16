@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ManaasGupta 
-- 
+- :mortar_board: Post-Graduate in Biotechnology and Bioinformatics
 - 👀 I’m interested in python, HTML,CSS and Javascript
 - 🌱 I’m currently learning python and Javascript and react
 - :e-mail:  How to reach me : Email- manasgpt3@gmail.com
